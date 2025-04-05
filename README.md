@@ -73,6 +73,11 @@ Other Utility Libraries : **uvicorn**, **matplotlib**, **numpy**.
 9.   Copy that particular stock symbol & set the model parameters such as changepoint or forecast period and finally click on **'Analyze Stock'** button.
 10.  Then within few minutes prophet will train and analyze the model after that you will see forecast results with graphs along with insights.
 
+### Output
+
+![image (4)](https://github.com/user-attachments/assets/71feb8ca-cf57-4e10-ad93-383f3da661d0)
+
+
 ### Conclusion
 
 
@@ -81,7 +86,7 @@ https://github.com/user-attachments/assets/c81e0021-d998-48da-a0f3-a727b2a02d6d
 
 
 
-Based on error metrics, the model has provided valuable insights. For example, it has identified TCS as highly stable and best for long-term investment, even though Indian market currently facing downturn. Additionally, the model has effectively captured trends, achieving approximately 40-60% accuracy in actual forecasts.
+Based on error metrics, the model has provided valuable insights. For example, it has identified TCS as relatively stable and you can consider for long-term investment, even though Indian market currently facing downturn & vice-versa identified Adani Green as highly volatile and mostly suitable for short-term investing/trading. Additionally, the model has effectively captured trends, achieving approximately 65-80% accuracy in actual forecasts.
 
 
 
