@@ -80,13 +80,15 @@ Other Utility Libraries : **uvicorn**, **matplotlib**, **numpy**.
 
 ### Conclusion
 
+Based on error metrics, the model has provided valuable insights. For example, it has identified **TCS** as relatively stable and you can consider for long-term investment, even though Indian market currently facing downturn & vice-versa identified **Adani Green** as highly volatile and mostly suitable for short-term investing/trading. Additionally, the model has effectively captured trends, achieving approximately 65-80% accuracy in actual forecasts.
+
 
 
 https://github.com/user-attachments/assets/c81e0021-d998-48da-a0f3-a727b2a02d6d
 
 
 
-Based on error metrics, the model has provided valuable insights. For example, it has identified TCS as relatively stable and you can consider for long-term investment, even though Indian market currently facing downturn & vice-versa identified Adani Green as highly volatile and mostly suitable for short-term investing/trading. Additionally, the model has effectively captured trends, achieving approximately 65-80% accuracy in actual forecasts.
+
 
 
 
