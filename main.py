@@ -45,11 +45,6 @@ def get_stock_data(symbol):
     df.reset_index(inplace=True)
 
     df = df[['Date', 'Open', 'Close', 'Volume']]
-    
-    # Ensure 'Date' column is parsed correctly
-    df['Year'] = df['Date'].dt.year.astype(str)
-    df['Month'] = df['Date'].dt.month.astype(str).str.zfill(2)
-    df['Day'] = df['Date'].dt.day.astype(str).str.zfill(2)
 
     # Create 'ds' and 'y' columns for Prophet
     df['ds'] = df['Year'] + '-' + df['Month'] + '-' + df['Day']
