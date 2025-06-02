@@ -75,7 +75,7 @@ Other Utility Libraries : **uvicorn**, **matplotlib**, **numpy**.
 
 ### Output
 
-![image (4)](https://github.com/user-attachments/assets/71feb8ca-cf57-4e10-ad93-383f3da661d0)
+![FRA OP](https://github.com/user-attachments/assets/29ebde3a-5ab4-48ce-8295-0be707f9d196)
 
 
 ### Conclusion
@@ -84,7 +84,11 @@ Based on error metrics, the model has provided valuable insights. For example, i
 
 
 
-https://github.com/user-attachments/assets/c81e0021-d998-48da-a0f3-a727b2a02d6d
+
+
+https://github.com/user-attachments/assets/f1b8fc18-59da-4f5c-8945-38ec5b1a5456
+
+
 
 
 
